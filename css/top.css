@@ -1,0 +1,32 @@
+.main_view img{
+    width:100%;
+}
+
+.item_row{
+    padding:20px;
+
+}
+
+table{
+    margin:0 auto;
+}
+
+td{
+    border:none;
+}
+
+
+.item_list td{
+    padding:10px;
+  
+}
+
+.sold_out{
+    background-color:#999999;
+    border-radius:4px;
+    color:white;
+    padding:5px;
+    width:100px;
+    text-align:center;
+}
+

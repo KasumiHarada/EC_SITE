@@ -1,0 +1,38 @@
+h1{
+    font-size:2em;
+    text-align:center;
+    padding-top:200px;
+    padding-bottom:10px;
+    border-bottom:2px solid #cccccc;
+    width:60%;
+    margin:0 auto;
+}
+
+.login{
+    text-align:center;
+    padding-top:20px;
+    
+}
+
+.login p{
+    padding:5px 10px 5px 10px;
+}
+
+
+.result_msg{
+    padding:5px 10px 5px 10px;
+    text-align:center;
+    
+}
+
+.alert-danger{
+    max-width:500px;
+    margin:0 auto;
+    text-align:center;
+}
+
+.alert-primary{
+    max-width:300px;   
+    margin:0 auto;
+    text-align:center;
+}

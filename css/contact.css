@@ -1,0 +1,60 @@
+h2{
+    width:600px;
+    margin:0 auto;
+    font-size:30px;
+    text-align:left;
+    padding:40px 0px 40px 0px;
+}
+.contact_form{
+    margin:0 auto;        
+    width:600px;
+  
+}
+
+.contact_form p {
+    padding:5px;
+    
+
+}
+
+textarea{
+    resize:none;
+}
+
+.form_name{
+    display:flex;
+    padding:10px;
+}
+.form_title{
+    flex:1;
+}
+.form_cell{
+    flex:3;
+}
+
+
+.contact_confirm{
+    margin: 0 auto;
+    width:600px;
+}
+
+.send_message{
+    text-align:center;
+    padding:50px;
+}
+
+.button{
+    padding:10px;
+    text-align:center;
+}
+
+.alert-danger{
+    max-width:500px;
+    margin:0 auto;
+    text-align:center;
+    padding:0px;
+}
+
+li{
+    list-style:none;
+}
